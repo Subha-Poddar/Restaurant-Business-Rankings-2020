@@ -16,6 +16,7 @@ The dataset contains information on:
 - **YOY_Units:** Year-over-year units percentage.
 - **Unit_Volume:** Unit volume.
 - **Franchising:** Indicates if the restaurant is a franchise.
+
 **Project Tasks:**
 
 **Data Loading and Exploration:**
